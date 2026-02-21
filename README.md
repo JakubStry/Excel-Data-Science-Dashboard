@@ -40,4 +40,16 @@ The dashboard analyzes:
 - Data visualization in Excel
 - Clean dashboard design principles
 
+---
+
+## Learning Source
+
+This project was developed while completing the course:
+
+**Microsoft Excel – Excel from Beginner to Advanced**  
+by Kyle Pew (Office Newb)
+
+While following the core concepts from the course, 
+the final dashboard and automation logic were implemented independently.
+
 

@@ -1,3 +1,7 @@
+## Project Preview
+
+![Dashboard](images/dashboard.png)
+
 # ExcelFormatting
 # Excel Formatting Project
 

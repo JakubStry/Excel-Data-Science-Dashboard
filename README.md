@@ -5,9 +5,9 @@
 # ExcelFormatting
 # Excel Formatting Project
 
-## Download Project
+## Download Excel File
 
-You can download the Excel file from the `project-files` folder.
+[Download the Excel Project](project-files/Data-Science-Dashboard.xlsx)
 
 ## Overview
 
